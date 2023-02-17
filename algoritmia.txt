@@ -1,0 +1,7 @@
+Algoritmia:
+comandos:
+git init 
+git add .
+git push
+clear
+hola sarai
