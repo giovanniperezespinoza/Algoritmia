@@ -5,3 +5,7 @@ git add .
 git push
 clear
 hola sarai
+
+
+
+good notes jjjdjjdjdj
